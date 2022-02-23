@@ -6,9 +6,9 @@ import (
 	"github.com/chromedp/cdproto"
 	"github.com/chromedp/cdproto/network"
 	"github.com/mitchellh/mapstructure"
-	"github.com/tebeka/selenium"
-	"github.com/tebeka/selenium/chrome"
-	"github.com/tebeka/selenium/log"
+	"github.com/stitch-june/selenium"
+	"github.com/stitch-june/selenium/chrome"
+	"github.com/stitch-june/selenium/log"
 	"os"
 	"strings"
 	"time"
@@ -23,7 +23,7 @@ import (
 //   2. Remove the word "Example" from the comment at the bottom of the
 //      function.
 //   3. Run:
-//      go test -test.run=Example$ github.com/tebeka/selenium
+//      go test -test.run=Example$ github.com/stitch-june/selenium
 func Example() {
 	// Start a Selenium WebDriver server instance (if one is not already
 	// running).
