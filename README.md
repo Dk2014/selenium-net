@@ -7,22 +7,6 @@
 
 [cdp-example](./example_test.go)
 
-## About
-
-This is a [WebDriver][selenium] client for [Go][go]. It supports the
-[WebDriver protocol][webdriver] and has been tested with various versions of
-[Selenium WebDriver][selenium], Firefox and [Geckodriver][geckodriver], and
-Chrome and [ChromeDriver][chromedriver],
-
-`selenium` is currently maintained by Eric Garrido ([@minusnine][minusnine]).
-
-[selenium]: http://seleniumhq.org/
-[webdriver]: https://www.w3.org/TR/webdriver/
-[go]: http://golang.org/
-[server]: http://seleniumhq.org/download/
-[geckodriver]: https://github.com/mozilla/geckodriver
-[chromedriver]: https://sites.google.com/a/chromium.org/chromedriver/
-[minusnine]: http://github.com/minusnine
 
 ## Installing
 
