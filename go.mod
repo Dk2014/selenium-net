@@ -1,4 +1,4 @@
-module github.com/stitch-june/selenium
+module github.com/Dk2014/selenium-net
 
 go 1.12
 
